@@ -14,7 +14,7 @@ cmd({
   const menuText = `
 ╭───────────────◆
 │  Hello, *${pushName}*!
-│  🤖 *GOJO MD MENU*
+│  🤖 *CHAMI MD MENU*
 ╰───────────────◆
 
 🧩 *Owner Commands*
@@ -67,7 +67,7 @@ cmd({
 
   const buttonMessage = {
     text: menuText,
-    footer: `⚡ GOJO-MD BOT | Powered by @GOJO`,
+    footer: `⚡ CHAMI-MD BOT | Powered by @CHAMI`,
     buttons: buttons,
     headerType: 1
   };
