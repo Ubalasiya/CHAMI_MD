@@ -143,11 +143,11 @@ async function connectToWA() {
             console.log('Plugins installed ✅')
             console.log('Bot connected ✅')
 await conn.sendMessage(config.OWNER_NUMBER + "@s.whatsapp.net", {
-text: "*👨‍💻 GOJO MD 👨‍💻 successfully connected* ✓\n\n Use .Update command to see GOJO md new update news \n\n> ◦ *Official  Chanel* - ```https://whatsapp.com/channel/0029VbB9tgf4NVih7bqzzf0s```\n> ◦ ᴊᴏɪɴ ᴏᴜʀ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ ᴠɪᴀ ᴛʏᴘᴇ: .joinsup\n*👨‍💻 GOJO ᴍᴅ 👨‍💻 ᴡʜᴀᴛꜱᴀᴘᴘ ᴜꜱᴇʀ ʙᴏᴛ*\n*ᴄʀᴇᴀᴛᴇᴅ ʙʏ • sayura mihiranga*",
+text: "*👨‍💻 𝐂𝐇𝐀𝐌𝐈 𝐌𝐃 👨‍💻 successfully connected* ✓\n\n Use .Update command to see CHAMI MD new update news \n\n> ◦ *Official  Chanel* - ```https://whatsapp.com/channel/0029VbB9tgf4NVih7bqzzf0s```\n> ◦ ᴊᴏɪɴ ᴏᴜʀ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ ᴠɪᴀ ᴛʏᴘᴇ: .joinsup\n*👨‍💻 GOJO ᴍᴅ 👨‍💻 ᴡʜᴀᴛꜱᴀᴘᴘ ᴜꜱᴇʀ ʙᴏᴛ*\n*ᴄʀᴇᴀᴛᴇᴅ ʙʏ • sayura mihiranga*",
 contextInfo: {
 externalAdReply: {
-title: "👨‍💻 GOJO MD 👨‍💻\nSuccessfully Connected !",	
-thumbnailUrl: "https://raw.githubusercontent.com/gojo18888/Photo-video-/refs/heads/main/file_000000003a2861fd8da00091a32a065a.png",
+title: "👨‍💻 𝐂𝐇𝐀𝐌𝐈 𝐌𝐃 👨‍💻\nSuccessfully Connected !",	
+thumbnailUrl: "https://ik.imagekit.io/rmlbayysp/1749649243760-file_000000006ec061f780dc9bcb7a54e549_McROR3W9c.png",
 sourceUrl: "",
 mediaType: 1,
 renderLargerThumbnail: true
