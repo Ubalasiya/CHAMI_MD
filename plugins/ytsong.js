@@ -35,7 +35,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         const url = data.url;
 
         let desc = `
-「🐉GOJO SONG DL🐉」
+「🐉CHAMI SONG DL🐉」
 
 ┏━❮ SON INFO ❯━
 ┃🤖 *ᴛɪᴛʟᴇ : ${data.title}*
@@ -49,7 +49,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 ┃•2 Download Document  📁
 ┃•3 Download Voice 🎤
 ╰──────────────┈⊷
-> GOJO MD
+> CHAMI MD
 `;
 let info = `
 > sayura mihiranga 
@@ -98,7 +98,7 @@ const sentMsg = await conn.sendMessage(from, {
                                 body: data.videoId,
                                 mediaType: 1,
                                 sourceUrl: data.url,
-                                thumbnailUrl: "https://raw.githubusercontent.com/sayura19/Helper/refs/heads/main/file_00000000d0dc61f597f450261ecfe33f%20(1).png",
+                                thumbnailUrl: "https://ik.imagekit.io/rmlbayysp/1749525666883-Picsart_25-05-31_11-40-46-270_yrqM45v5w.jpg",
                                 renderLargerThumbnail: true,
                                 showAdAttribution: true
                             }
